@@ -2,7 +2,6 @@ header {
     height: 100px;
     padding: 1rem;
     color: white;
-    background: rgb(134, 151, 177);
     font-weight: bold;
     display: flex;
     justify-content: space-between;
@@ -11,4 +10,9 @@ header {
 
 .headerBackgroundGrad {
     background: linear-gradient(blue, pink);
+}
+
+
+.nav-btn{
+    background: gray;
 }
