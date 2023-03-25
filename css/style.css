@@ -1,0 +1,14 @@
+header {
+    height: 100px;
+    padding: 1rem;
+    color: white;
+    background: rgb(134, 151, 177);
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerBackgroundGrad {
+    background: linear-gradient(blue, pink);
+}
